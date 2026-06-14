@@ -1,11 +1,8 @@
-# Scripted Starry Codes ✨
+# Project 1 
 
-Welcome to my first ever portfolio project built using skills from the CS50x course!  
+Welcome to my first portfolio project (partially unfinished 51 marks) built using skills from the CS50x course!  
 
 # Tech stack:
 - HTML
 - CSS
-- JavaScript
-- Python (coming soon)
 
-Stay tuned for updates, snippets, and possibly a sprinkle of stardust 💫
